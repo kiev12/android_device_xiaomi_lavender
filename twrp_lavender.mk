@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/xiaomi/lavender/device.mk)
 
 PRODUCT_DEVICE := lavender
-PRODUCT_NAME := omni_lavender
+PRODUCT_NAME := twrp_lavender
 PRODUCT_BRAND := xiaomi
 PRODUCT_MODEL := Redmi Note 7
 PRODUCT_MANUFACTURER := xiaomi
