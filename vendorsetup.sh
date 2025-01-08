@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_lavender-user
-add_lunch_combo omni_lavender-userdebug
-add_lunch_combo omni_lavender-eng
+add_lunch_combo twrp_lavender-user
+add_lunch_combo twrp_lavender-userdebug
+add_lunch_combo twrp_lavender-eng
